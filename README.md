@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @r3dalk (Elias D.R.)
 - 👀 I’m interested in Cybersecurity, Java and Python Development and Technology and PC's in general.
-- 🌱 I’m currently learning Python Bots development
+- 🌱 I’m currently learning Python and Java development
 - 💞️ I’m looking to collaborate on any projects that seem risky or a great learning opportunity, to take me out of my comfort zone.
 - 📫 Contact me at elidor.rguez@gmail.com !
 
